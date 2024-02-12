@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "cypress": "^13.6.1",
+    "cypress-sql-server": "^1.0.0",
+    "mssql": "^10.0.1",
+    "tedious": "^16.6.1"
+  }
+}
