@@ -10,4 +10,8 @@ describe('test suit', () => {
     it('test case 3',()=>{
         cy.log("test case 3")
     })
+
+    it('test case 4',()=>{
+        cy.log("test case 4")
+    })
 })
