@@ -12,6 +12,6 @@ describe('test suit', () => {
     })
 
     it('test case 4',()=>{
-        cy.log("test case 4")
+        cy.log("testing case 4")
     })
 })
